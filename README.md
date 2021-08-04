@@ -1,12 +1,16 @@
 # ¿InteligenciA? Aproximación crítica a la inteligencia artificial
 
-##Instrucciones para asistentes
+## Instrucciones para asistentes
+
+1. Utilización de archivos
 
 <b> Se deberán descargar ambos archivos de este repositorio y alojarlos en su Google Drive personal (preferentemente en una ruta de fácil acceso)</b>
 
+---
+
 2. Configurar el entorno de Google Colab para el uso de GPU's </b>  
 
-Una vez alojada la notebook 'Artificial_Art_GAN' en el Google Drive debe poder abrir el archivo en el entorno de Google Colab, una vez dentro deberá dirigirse a la barra de herramientas en la sección de <b> Entorno de Ejecución </b> en la opción de <b> Cambiar tipo de entorno de Ejecución </b> como se muestra en la imagen ilustrativa.
+Una vez alojada la notebook en el Google Drive debe poder abrir el archivo en el entorno de Google Colab, una vez dentro deberá dirigirse a la barra de herramientas en la sección de <b> Entorno de Ejecución </b> en la opción de <b> Cambiar tipo de entorno de Ejecución </b> como se muestra en la imagen ilustrativa.
 
 ![image](https://user-images.githubusercontent.com/64985126/128061872-2ee99561-7a75-4fff-94c7-cd3aa5fbd597.png)
 
