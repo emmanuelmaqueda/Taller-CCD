@@ -13,7 +13,7 @@
 
 1. Utilización de archivos
 
-<b> Se deberán descargar ambos archivos de este repositorio y alojarlos en su Google Drive personal (preferentemente en una ruta de fácil acceso)</b>
+<b> Se deberán descargar ambos archivos de este repositorio y alojarlos en su Google Drive personal (crear una carpeta en la raíz de su Google Drive llamado 'Textos-TallerCCD' y ahí ingresar los archivos que estan en este repositorio, tanto la carpeta de textos como el arhivo '¿InteligenciA__Generación.ipynb')
 
 ---
 
